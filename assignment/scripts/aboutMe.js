@@ -17,7 +17,7 @@ console.log( luckyNumber );
 //     'My name is (full name), and I think (lucky number) is a winner!'.
 //     Refer back to the videos if you need help with this one.
 //     Console log the value of `introduction`
-let introduction = 'My name is ' + fullName + 'and I think ' + ' is a winner!';
+let introduction = 'My name is ' + fullName + 'and I think ' + luckyNumber + ' is a winner!';
 // 6 - Create a variable named `adventurous` and set it to a boolean value (true or false)
 //     Console log the value of `adventurous`
 let adventurous = true;
@@ -92,7 +92,6 @@ console.log( petStatus );
 //      assigns the highest value to `mostPets`. There's several possibilities --
 //      be sure to think through all the scenarios. 
 //      console.log `mostPets` after the conditional has run.
-let mostPets;
 
 // 16 - Make a variable called `luckyResult`
 //      Write a *switch* statement that sets `luckyResult` to:
